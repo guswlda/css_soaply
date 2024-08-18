@@ -11,7 +11,7 @@ const menuIcon = document.querySelector('.menu-icon');
 // console.log(menuIcon);
 const menuIconFont = document.querySelector('.menu-icon > i');
 const mobileMenus = document.querySelector('.mobile-menus');
-console.dir(mobileMenus);
+// console.dir(mobileMenus);
 
 // menu icon click event
 menuIcon.addEventListener('click', function () {
